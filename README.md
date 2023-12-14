@@ -4,7 +4,7 @@
 
 ## 简介
 
-烟台科技学院，数据学院 2021 级 Java Web 课程设计作品。  
+烟台科技学院，数据智能学院 2021 级 Java Web 小组课程设计项目。  
 使用 Java Servlet 技术构建，JSP+Servlet+MVC+Dao 结构，Bootstrap4 + JQuery 前端。  
 
 ![结构图](https://github.com/Ghost-chu/DriveLicenseStudy/assets/30802565/d181b70c-6509-421a-a179-ca64a720c49d)
